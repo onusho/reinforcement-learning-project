@@ -1,0 +1,19 @@
+getObservation - MSS (frame capture) - openCV (output)
+
+embedded machine learning - tesseract OCR (extract text "Game Over")
+
+OpenAI Gym
+
+stable baseline3 - reenforcement learning 
+
+env -> DQN model -> model -> play game
+
+
+pytorch
+stable-baselines3
+protobuf
+opencv
+pydirectinput
+pillow
+pytesseract
+mss
